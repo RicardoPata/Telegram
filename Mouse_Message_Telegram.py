@@ -17,12 +17,12 @@ def Message(names, message):
     time.sleep(2)
     pg.write(names) #id names to paste
     time.sleep(2)
-    pg.click(136,262)
+    pg.click(136,262) # open chat
     time.sleep(2)
-    pg.click(742,678)
-    pg.write(message) #message to past
+    pg.click(742,678) # area to paste message
+    pg.write(message) #message to paste
     time.sleep(2)
-    pg.click(1153, 672)
+    pg.click(1153, 672) # send message
     
 
    

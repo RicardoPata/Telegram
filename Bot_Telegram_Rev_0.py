@@ -4,6 +4,8 @@ Created on Mon May  2 23:45:53 2022
 
 @author: RSP
 github
+
+Use this bot to send messages on telegram
 """
 
 from Mouse_Message_Telegram import Message
